@@ -1,0 +1,787 @@
+Patient ID,Age_group,Event_free,EF_survival,INSS_stage,MYCN_status,Event_overall,overall_survival,Platform,NB-hop prediction,Training\Test(30/70)
+252038210119_1_4,<18,no,6.0109589,4s,Not Amplified,no,6.010959,Agilent4x44k,F,Training
+gsm1205289,>=18,no,14.89041096,1,Not Amplified,no,14.890411,RNAseq,F,Training
+itcc0010,<18,no,19.63835616,4,Not Amplified,no,19.638356,HG-U133plus2,F,Training
+gsm329018,<18,yes,0.98630137,2,Not Amplified,yes,0.986301,HG-U133plus2,F,Training
+252038210007_1_3,>=18,no,6.56164384,2,Not Amplified,no,6.561644,Agilent4x44k,F,Training
+gsm1205248,<18,no,5.7369863,2,Not Amplified,no,5.736986,RNAseq,F,Training
+252038210022_1_3,>=18,no,6.7479452,2,Not Amplified,no,6.747945,Agilent4x44k,F,Training
+itcc0030,<18,no,10.99452055,3,Not Amplified,no,10.994521,HG-U133plus2,F,Training
+gsm1205318,>=18,no,7.7479452,3,Amplified,no,7.747945,RNAseq,UF,Training
+gsm1205658,<18,no,5.24931507,4s,Not Amplified,no,5.249315,RNAseq,UF,Training
+252038210126_1_2,>=18,yes,0.65753425,1,Not Amplified,no,11.70137,Agilent4x44k,F,Training
+252038210288_1_1,>=18,yes,1.15342466,4,Not Amplified,yes,1.791781,Agilent4x44k,UF,Training
+252038210147_1_1,<18,yes,0.18630137,2,Not Amplified,no,6.347945,Agilent4x44k,F,Training
+252038210079_1_4,>=18,yes,12.74794521,4,Not Amplified,no,12.865753,Agilent4x44k,F,Training
+gsm1205325,<18,no,14.56986301,4,Not Amplified,no,14.569863,RNAseq,F,Training
+252038210287_1_1,<18,yes,0.8109589,4,Amplified,yes,0.90411,Agilent4x44k,UF,Training
+gsm1205286,>=18,no,10.79726027,2,Not Amplified,no,10.79726,RNAseq,F,Training
+252038210284_1_1,>=18,yes,0.95616438,4,Not Amplified,yes,1.183562,Agilent4x44k,F,Training
+252038210214_1_2,<18,NA,NA,2,Not Amplified,no,24.657534,Agilent4x44k,F,Training
+gsm1205517,<18,no,9.56986301,4s,Not Amplified,no,9.569863,RNAseq,F,Training
+itcc0170,<18,no,16.70410959,4s,Not Amplified,no,16.70411,HG-U133plus2,F,Training
+itcc0114,>=18,no,14.44931507,3,Not Amplified,no,14.449315,HG-U133plus2,F,Training
+gsm1205408,<18,no,6.32876712,2,Not Amplified,no,6.328767,RNAseq,F,Training
+gsm1205734,<18,no,13.37808219,1,Not Amplified,no,13.378082,RNAseq,F,Training
+252038210002_1_2,<18,no,8.01917808,1,Not Amplified,no,8.019178,Agilent4x44k,F,Training
+gsm1205487,>=18,yes,1.45753425,4,Not Amplified,yes,3.063014,RNAseq,F,Training
+252038210042_1_2,<18,no,7.18082192,4,Not Amplified,no,7.180822,Agilent4x44k,F,Training
+gsm1205353,<18,no,6.73424658,2,Not Amplified,no,6.734247,RNAseq,F,Training
+gsm1205486,>=18,no,6.04931507,4,Not Amplified,no,6.049315,RNAseq,F,Training
+252038210047_1_3,<18,no,10.20547945,4s,Not Amplified,no,10.205479,Agilent4x44k,F,Training
+gsm1205440,<18,no,5.35068493,1,Not Amplified,no,5.350685,RNAseq,F,Training
+gsm1205282,>=18,no,9.45753425,2,Not Amplified,no,9.457534,RNAseq,F,Training
+gsm1205586,<18,no,13.80821918,3,Not Amplified,no,13.808219,RNAseq,F,Training
+gsm1205361,<18,yes,0.1479452,2,Not Amplified,no,8.123288,RNAseq,F,Training
+252038210074_1_4,<18,no,9.03287671,1,Not Amplified,no,9.032877,Agilent4x44k,F,Training
+252038210032_1_4,>=18,yes,1.6,3,Not Amplified,no,5.561644,Agilent4x44k,F,Training
+gsm1205611,>=18,yes,0.40273973,4,Not Amplified,no,8.860274,RNAseq,UF,Training
+itcc0189,>=18,yes,2.82465753,4,Amplified,yes,3.221918,HG-U133plus2,UF,Training
+gsm1205552,<18,no,5.12328767,2,Not Amplified,no,5.123288,RNAseq,UF,Training
+252038210068_1_4,<18,no,15.14246575,3,Not Amplified,no,15.142466,Agilent4x44k,F,Training
+gsm1205593,>=18,no,12.60821918,2,Not Amplified,no,12.608219,RNAseq,F,Training
+gsm329003,<18,no,6.32876712,1,Not Amplified,no,6.328767,HG-U133plus2,F,Training
+gsm1205631,>=18,yes,2.26849315,4,Not Amplified,no,6.216438,RNAseq,F,Training
+gsm1205336,<18,no,5.9369863,1,Not Amplified,no,5.936986,RNAseq,F,Training
+gsm1205259,<18,no,14.41917808,1,Not Amplified,no,14.419178,RNAseq,F,Training
+gsm1205306,>=18,yes,1.32328767,3,Not Amplified,yes,2.317808,RNAseq,F,Training
+gsm1205275,<18,no,12.38630137,1,Not Amplified,no,12.386301,RNAseq,F,Training
+gsm329020,>=18,yes,0.49315068,4,Not Amplified,yes,0.493151,HG-U133plus2,F,Training
+252038210047_1_4,<18,yes,0.8109589,4s,Not Amplified,no,9.082192,Agilent4x44k,F,Training
+gsm1205327,>=18,yes,1.52054794,4,Not Amplified,yes,2.090411,RNAseq,F,Training
+gsm1205558,>=18,yes,0.49589041,4,Amplified,yes,2.317808,RNAseq,UF,Training
+252038210006_1_2,<18,no,7.03835616,1,Not Amplified,no,7.038356,Agilent4x44k,F,Training
+gsm1205715,>=18,no,9.77260274,4,Not Amplified,no,9.772603,RNAseq,F,Training
+gsm1205623,>=18,yes,1.70410959,4,Not Amplified,yes,5.841096,RNAseq,UF,Training
+gsm1205694,>=18,yes,2.38356164,4,Amplified,yes,2.383562,RNAseq,F,Training
+gsm1205375,>=18,no,9.55616438,3,Amplified,no,9.556164,RNAseq,UF,Training
+252038210203_1_2,>=18,yes,0.66849315,2,Not Amplified,no,5.879452,Agilent4x44k,F,Training
+252038210018_1_1,<18,no,7.23287671,1,Not Amplified,no,7.232877,Agilent4x44k,F,Training
+itcc0194,>=18,yes,0.5890411,4,Not Amplified,yes,0.805479,HG-U133plus2,F,Training
+gsm1205482,>=18,yes,2.0630137,4,Not Amplified,yes,7.693151,RNAseq,F,Training
+gsm1205242,<18,yes,0.58082192,4,Amplified,yes,0.60274,RNAseq,UF,Training
+252038210026_1_4,<18,yes,0.36164384,2,Not Amplified,no,10.830137,Agilent4x44k,F,Training
+gsm1205298,<18,no,9.79452055,2,Not Amplified,no,9.794521,RNAseq,F,Training
+gsm1205506,>=18,yes,2.59178082,4,Amplified,yes,3.7671230000000002,RNAseq,F,Training
+itcc0284,>=18,yes,1.39178082,4,Not Amplified,yes,1.482192,HG-U133plus2,F,Training
+252038210288_1_4,>=18,no,6.89863014,4,Not Amplified,no,6.89863,Agilent4x44k,F,Training
+gsm1205613,>=18,yes,0.62191781,4,Not Amplified,yes,1.364384,RNAseq,F,Training
+252038210106_1_3,>=18,no,9.59178082,3,Amplified,no,9.591781,Agilent4x44k,UF,Training
+gsm1205610,<18,yes,0.51232877,4,Amplified,yes,0.572603,RNAseq,F,Training
+252038210181_1_3,>=18,NA,NA,1,Not Amplified,no,10.60274,Agilent4x44k,F,Training
+gsm1205594,<18,yes,0.20273973,3,Not Amplified,no,10.693151,RNAseq,F,Training
+itcc0183,<18,no,14.03835616,3,Not Amplified,no,14.038356,HG-U133plus2,F,Training
+252038210144_1_4,<18,no,6.01917808,4s,Not Amplified,no,6.019178,Agilent4x44k,F,Training
+gsm1205632,>=18,no,6.69041096,2,Not Amplified,no,6.690411,RNAseq,F,Training
+gsm1205371,<18,no,10.6,3,Not Amplified,no,10.6,RNAseq,F,Training
+252038210272_1_1,>=18,yes,0.94246575,4,Amplified,yes,1.432877,Agilent4x44k,UF,Training
+gsm329010,<18,yes,0.32876712,4,Not Amplified,yes,0.328767,HG-U133plus2,F,Training
+252038210048_1_3,>=18,no,10.61369863,3,Amplified,no,10.613699,Agilent4x44k,UF,Training
+gsm1205735,<18,no,7.59452055,1,Not Amplified,no,7.594521,RNAseq,F,Training
+252038210090_1_2,<18,no,10.54520548,3,Not Amplified,no,10.545205,Agilent4x44k,F,Training
+gsm1205576,>=18,yes,0.7369863,4,Amplified,yes,0.736986,RNAseq,UF,Training
+itcc0191,<18,no,10.15616438,2,Not Amplified,no,10.156164,HG-U133plus2,F,Training
+gsm1205274,<18,no,12.77260274,1,Not Amplified,no,12.772603,RNAseq,F,Training
+gsm1205559,>=18,yes,0.88493151,4,Amplified,yes,1.334247,RNAseq,F,Training
+gsm1205452,<18,no,5.4630137,1,Not Amplified,no,5.463014,RNAseq,F,Training
+gsm1205345,<18,no,7.69315068,4,Not Amplified,no,7.693151,RNAseq,F,Training
+gsm1205348,<18,no,10.84109589,1,Not Amplified,no,10.841096,RNAseq,F,Training
+gsm1205300,<18,yes,1.32876712,2,Not Amplified,no,9.958904,RNAseq,F,Training
+gsm1205566,<18,no,12.79178082,4,Not Amplified,no,12.791781,RNAseq,F,Training
+1080179,>=18,yes,2.31506849,4,Amplified,yes,3.416438,HG-U133plus2,UF,Training
+252038210017_1_2,<18,yes,0.82465753,4s,Not Amplified,no,6.794521,Agilent4x44k,F,Training
+gsm1205519,<18,yes,0.78356164,4s,Not Amplified,no,6.246575,RNAseq,F,Training
+252038210043_1_4,>=18,yes,1.02465753,2,Not Amplified,yes,3.109589,Agilent4x44k,F,Training
+252038210031_1_2,<18,no,12.6,4s,Not Amplified,no,12.6,Agilent4x44k,F,Training
+itcc0050,<18,no,20.03835616,3,Not Amplified,no,20.038356,HG-U133plus2,F,Training
+252038210156_1_4,<18,no,5.42465753,1,Not Amplified,no,5.424658,Agilent4x44k,F,Training
+252038210091_1_3,<18,no,11.90958904,1,Not Amplified,no,11.909589,Agilent4x44k,F,Training
+itcc0172,<18,no,10.56712329,4,Not Amplified,no,10.567123,HG-U133plus2,F,Training
+gsm1205350,<18,yes,0.30684932,1,Amplified,no,8.994521,RNAseq,F,Training
+gsm1205634,<18,no,9.78356164,4s,Not Amplified,no,9.783562,RNAseq,F,Training
+gsm1205253,<18,no,7.44383562,4s,Not Amplified,no,7.443836,RNAseq,F,Training
+252038210012_1_2,<18,no,8.51780822,2,Not Amplified,no,8.517808,Agilent4x44k,F,Training
+gsm1205461,>=18,yes,4.31780822,1,Not Amplified,no,16.054795,RNAseq,UF,Training
+gsm1205686,<18,no,7.50410959,4,Amplified,no,7.50411,RNAseq,UF,Training
+gsm1205565,>=18,yes,0.82191781,4,Amplified,yes,0.90411,RNAseq,UF,Training
+gsm1205319,>=18,no,9.9479452,4,Not Amplified,no,9.947945,RNAseq,F,Training
+252038210031_1_1,<18,no,8.19726027,2,Not Amplified,no,8.19726,Agilent4x44k,F,Training
+gsm1205609,>=18,yes,0.44931507,4,Not Amplified,no,5.956164,RNAseq,F,Training
+gsm1205437,<18,no,5.8630137,1,Not Amplified,no,5.863014,RNAseq,F,Training
+252038210120_1_1,>=18,no,8.9890411,4,Not Amplified,no,8.989041,Agilent4x44k,F,Training
+gsm1205498,>=18,no,9.78082192,4,Amplified,no,9.780822,RNAseq,F,Training
+252038210010_1_1,<18,no,7.70684932,4,Not Amplified,no,7.706849,Agilent4x44k,F,Training
+itcc0042,<18,yes,0.01369863,4s,Not Amplified,no,12.857534,HG-U133plus2,F,Training
+252038210147_1_3,<18,no,6.83561644,4s,Not Amplified,no,6.835616,Agilent4x44k,F,Training
+gsm1205495,>=18,no,5.73150685,4,Amplified,no,5.731507,RNAseq,UF,Training
+252038210164_1_2,<18,no,6.16438356,3,Not Amplified,no,6.164384,Agilent4x44k,F,Training
+gsm1205592,<18,no,7.68219178,1,Not Amplified,no,7.682192,RNAseq,F,Training
+252038210114_1_2,<18,no,11.04657534,2,Not Amplified,no,11.046575,Agilent4x44k,F,Training
+252038210287_1_4,>=18,yes,0.22191781,4,Amplified,yes,0.824658,Agilent4x44k,F,Training
+252038210056_1_2,<18,no,8.92054794,4s,Not Amplified,no,8.920548,Agilent4x44k,F,Training
+gsm1205691,>=18,yes,0.12876712,4,Not Amplified,yes,0.547945,RNAseq,UF,Training
+gsm1205272,<18,no,10.43013699,1,Not Amplified,no,10.430137,RNAseq,F,Training
+gsm1205328,>=18,yes,4.05479452,4,Not Amplified,no,10.421918,RNAseq,UF,Training
+gsm329005,<18,yes,1.23287671,4s,Not Amplified,yes,4.356164,HG-U133plus2,F,Training
+gsm1205526,<18,yes,1.09315068,4s,Not Amplified,yes,1.147945,RNAseq,F,Training
+gsm1205267,<18,no,11.9260274,1,Not Amplified,no,11.926027,RNAseq,F,Training
+252038210119_1_3,<18,yes,1.98356164,4s,Not Amplified,no,5.29863,Agilent4x44k,F,Training
+itcc0111,<18,no,16.63287671,4s,Not Amplified,no,16.632877,HG-U133plus2,F,Training
+252038210272_1_2,>=18,yes,1.07671233,4,Not Amplified,yes,1.257534,Agilent4x44k,F,Training
+252038210163_1_1,<18,yes,2.02191781,3,Not Amplified,no,5.939726,Agilent4x44k,F,Training
+gsm1205483,>=18,yes,5.10410959,4,Not Amplified,no,5.273973,RNAseq,F,Training
+gsm1205268,<18,no,13.21369863,1,Not Amplified,no,13.213699,RNAseq,F,Training
+gsm1205342,>=18,no,10.14520548,1,Not Amplified,no,10.145205,RNAseq,F,Training
+gsm1205556,<18,yes,0.78356164,4,Amplified,yes,1.128767,RNAseq,UF,Training
+252038210190_1_2,>=18,yes,0.89863014,4,Amplified,yes,0.90411,Agilent4x44k,UF,Training
+gsm1205679,>=18,yes,0.12328767,4,Not Amplified,yes,3.216438,RNAseq,UF,Training
+gsm1205293,<18,no,12.48219178,1,Not Amplified,no,12.482192,RNAseq,F,Training
+252038210158_1_1,<18,no,5.6,2,Not Amplified,no,5.6,Agilent4x44k,F,Training
+gsm1205324,>=18,yes,5.17808219,4,Not Amplified,no,7.90137,RNAseq,F,Training
+gsm1205568,>=18,yes,1.57808219,4,Amplified,yes,2.873973,RNAseq,UF,Training
+gsm1205352,<18,no,10.15616438,2,Not Amplified,no,10.156164,RNAseq,F,Training
+gsm1205633,>=18,yes,2.65753425,4,Not Amplified,yes,3.838356,RNAseq,F,Training
+gsm1205524,<18,yes,3.45753425,4s,Not Amplified,yes,6.60274,RNAseq,F,Training
+252038210089_1_1,<18,no,10.73150685,3,Not Amplified,no,10.731507,Agilent4x44k,F,Training
+252038210190_1_1,>=18,yes,2.41643836,4,Not Amplified,yes,2.783562,Agilent4x44k,F,Training
+gsm1205424,>=18,no,6.74520548,3,Not Amplified,no,6.745205,RNAseq,F,Training
+gsm1205731,<18,no,13.22739726,1,Not Amplified,no,13.227397,RNAseq,F,Training
+gsm1205464,<18,yes,0.42465753,2,Not Amplified,no,7.00274,RNAseq,F,Training
+itcc0221,>=18,no,6.33424657,4,Not Amplified,no,6.334247,HG-U133plus2,F,Training
+gsm1205587,<18,no,13.39726027,3,Not Amplified,no,13.39726,RNAseq,F,Training
+gsm1205387,<18,no,8.90410959,3,Not Amplified,no,8.90411,RNAseq,F,Training
+252038210114_1_3,>=18,no,10.19726027,3,Amplified,no,10.19726,Agilent4x44k,F,Training
+252038210286_1_2,>=18,yes,1.7890411,4,Amplified,yes,1.849315,Agilent4x44k,F,Training
+252038210125_1_3,<18,no,15.08767123,2,Not Amplified,no,15.087671,Agilent4x44k,F,Training
+252038210036_1_4,<18,no,6.20547945,3,Not Amplified,no,6.205479,Agilent4x44k,F,Training
+252038210023_1_3,>=18,no,8.79452055,4,Not Amplified,no,8.794521,Agilent4x44k,F,Training
+gsm1205376,<18,no,11.49315068,1,Not Amplified,no,11.493151,RNAseq,F,Training
+gsm329008,>=18,yes,2.1369863,4,Amplified,yes,2.465753,HG-U133plus2,UF,Training
+gsm1205364,<18,no,15.9260274,3,Not Amplified,no,15.926027,RNAseq,F,Training
+gsm1205360,<18,no,9.10684931,2,Not Amplified,no,9.106849,RNAseq,F,Training
+1080727,>=18,yes,1.97534247,2,Not Amplified,no,7.536986,HG-U133plus2,F,Training
+gsm329013,>=18,yes,0.08219178,4,Amplified,yes,0.082192,HG-U133plus2,F,Training
+gsm1205508,>=18,yes,0.83561644,4,Amplified,yes,1.027397,RNAseq,UF,Training
+1080516,<18,yes,0.90410959,4,Not Amplified,yes,0.90411,HG-U133plus2,F,Training
+itcc0169,>=18,yes,1.2109589,4,Not Amplified,yes,1.210959,HG-U133plus2,UF,Training
+gsm1205273,>=18,no,13.62191781,1,Not Amplified,no,13.621918,RNAseq,F,Training
+gsm1205261,<18,no,11.09863014,1,Not Amplified,no,11.09863,RNAseq,F,Training
+gsm1205305,<18,no,14.05753425,3,Not Amplified,no,14.057534,RNAseq,F,Training
+252038210273_1_2,>=18,yes,1.24383562,4,Amplified,yes,1.454795,Agilent4x44k,UF,Training
+gsm1205307,<18,no,10.11232877,3,Not Amplified,no,10.112329,RNAseq,F,Training
+252038210114_1_1,<18,no,12.69041096,1,Not Amplified,no,12.690411,Agilent4x44k,F,Training
+gsm1205381,>=18,no,6.80547945,4,Not Amplified,no,6.805479,RNAseq,UF,Training
+252038210244_1_1,<18,yes,0.38630137,na,Not Amplified,no,10.043836,Agilent4x44k,UF,Training
+gsm1205504,>=18,yes,3.27945206,4,Amplified,yes,4.643836,RNAseq,UF,Training
+gsm1205271,<18,no,11.61643836,1,Not Amplified,no,11.616438,RNAseq,F,Training
+gsm1205546,<18,yes,0.44931507,4s,Not Amplified,no,5.224658,RNAseq,F,Training
+252038210153_1_3,<18,yes,0.20547945,4s,Not Amplified,yes,0.205479,Agilent4x44k,F,Training
+gsm1205682,>=18,yes,0.40273973,4,Not Amplified,yes,0.59726,RNAseq,UF,Training
+gsm1205297,<18,no,11.1260274,1,Not Amplified,no,11.126027,RNAseq,F,Training
+itcc0107,>=18,yes,0.2,4,Not Amplified,yes,0.345205,HG-U133plus2,UF,Training
+252038210176_1_2,>=18,NA,NA,4,Not Amplified,yes,2.30137,Agilent4x44k,F,Training
+gsm1205347,<18,no,12.2739726,1,Not Amplified,no,12.273973,RNAseq,F,Training
+gsm1205522,<18,no,10.68767123,4s,Not Amplified,no,10.687671,RNAseq,F,Training
+1080013,>=18,yes,0.95342466,1,Not Amplified,no,6.150685,HG-U133plus2,F,Training
+gsm1205410,<18,yes,0.36712329,2,Not Amplified,no,9.273973,RNAseq,F,Training
+itcc0036,>=18,yes,0.25479452,4,Not Amplified,yes,0.452055,HG-U133plus2,F,Training
+gsm1205612,>=18,yes,0.59726027,4,Not Amplified,yes,0.99726,RNAseq,F,Training
+252038210072_1_2,>=18,no,8.29315069,1,Not Amplified,no,8.293151,Agilent4x44k,F,Training
+252038210110_1_2,>=18,no,13.42191781,2,Not Amplified,no,13.421918,Agilent4x44k,F,Training
+252038210161_1_2,>=18,yes,5.10410959,4,Not Amplified,no,6.421918,Agilent4x44k,F,Training
+itcc0059,<18,yes,0.4,2,Not Amplified,no,18.361644,HG-U133plus2,F,Training
+252038210065_1_4,<18,no,8.81643836,1,Not Amplified,no,8.816438,Agilent4x44k,F,Training
+252038210180_1_1,>=18,NA,NA,4,Not Amplified,yes,9.041096,Agilent4x44k,F,Training
+252038210189_1_4,>=18,yes,1.75342466,4,Not Amplified,yes,2.345205,Agilent4x44k,F,Training
+252038210273_1_4,<18,no,10.66027397,4,Amplified,no,10.660274,Agilent4x44k,UF,Training
+gsm1205390,>=18,no,7.2630137,1,Not Amplified,no,7.263014,RNAseq,F,Training
+gsm1205254,>=18,no,7.84383562,2,Not Amplified,no,7.843836,RNAseq,F,Training
+gsm1205570,>=18,yes,1.64931507,4,Not Amplified,yes,3.367123,RNAseq,F,Training
+252038210088_1_2,<18,no,10.56712329,4s,Not Amplified,no,10.567123,Agilent4x44k,F,Training
+252038210121_1_3,>=18,yes,0.5369863,3,Not Amplified,yes,1.315068,Agilent4x44k,F,Training
+gsm1205373,>=18,yes,1.43013699,3,Amplified,yes,4.534247,RNAseq,UF,Training
+gsm1205433,>=18,no,7.6630137,3,Amplified,no,7.663014,RNAseq,UF,Training
+gsm1205363,<18,no,6.5890411,2,Not Amplified,no,6.589041,RNAseq,F,Training
+gsm1205601,<18,no,5.17808219,4s,Not Amplified,no,5.178082,RNAseq,F,Training
+gsm1205389,<18,no,11.99452055,1,Not Amplified,no,11.994521,RNAseq,F,Training
+gsm1205688,<18,no,11.26027397,2,Not Amplified,no,11.260274,RNAseq,UF,Training
+252038210206_1_2,>=18,yes,2.07123288,4,NA,yes,7.136986,Agilent4x44k,F,Training
+gsm1205417,>=18,no,5.73150685,2,Not Amplified,no,5.731507,RNAseq,F,Training
+gsm1205520,<18,no,9.15068493,4s,Not Amplified,no,9.150685,RNAseq,F,Training
+gsm1205382,<18,no,7.76712329,2,Not Amplified,no,7.767123,RNAseq,F,Training
+gsm1205330,<18,no,10.78082192,4,Not Amplified,no,10.780822,RNAseq,F,Training
+gsm1205572,>=18,yes,0.95616438,4,Not Amplified,yes,3.673973,RNAseq,F,Training
+252038210054_1_4,<18,no,6.6630137,1,Not Amplified,no,6.663014,Agilent4x44k,F,Training
+gsm1205618,>=18,yes,0.86027397,4,Amplified,yes,0.945205,RNAseq,UF,Training
+gsm1205385,<18,no,6.50684932,3,Not Amplified,no,6.506849,RNAseq,F,Training
+itcc0219,>=18,yes,0.2109589,4,Amplified,yes,0.657534,HG-U133plus2,F,Training
+gsm328993,<18,no,5.91780822,4,Amplified,no,5.917808,HG-U133plus2,UF,Training
+itcc0015,>=18,yes,1.50410959,4,Amplified,yes,3.49863,HG-U133plus2,UF,Training
+252038210048_1_2,<18,no,18.99726027,3,Not Amplified,no,18.99726,Agilent4x44k,F,Training
+gsm1205333,<18,no,10.89589041,1,Not Amplified,no,10.89589,RNAseq,F,Training
+gsm1205346,<18,yes,0.46027397,1,Not Amplified,no,8.057534,RNAseq,F,Training
+252038210042_1_3,>=18,yes,0.6109589,4,Amplified,yes,0.846575,Agilent4x44k,F,Training
+252038210284_1_3,>=18,yes,0.52054795,4,Amplified,yes,0.758904,Agilent4x44k,UF,Training
+itcc0174,>=18,yes,1.31506849,4,Amplified,yes,1.512329,HG-U133plus2,UF,Training
+itcc0103,<18,no,8.28219178,2,Not Amplified,no,8.282192,HG-U133plus2,F,Training
+gsm1205458,>=18,no,11.98082192,2,Not Amplified,no,11.980822,RNAseq,F,Training
+gsm1205341,<18,no,6.98356164,1,Not Amplified,no,6.983562,RNAseq,F,Training
+252038210286_1_1,>=18,yes,1.26027397,4,Amplified,yes,1.334247,Agilent4x44k,UF,Training
+itcc0054,>=18,no,17.16164384,1,Not Amplified,no,17.161644,HG-U133plus2,F,Training
+252038210158_1_2,<18,no,5.69589041,2,Not Amplified,no,5.69589,Agilent4x44k,F,Training
+gsm1205595,<18,yes,0.26849315,3,Not Amplified,no,12.082192,RNAseq,F,Training
+252038210065_1_2,<18,yes,0.28767123,1,Not Amplified,no,17.586301,Agilent4x44k,UF,Training
+252038210184_1_1,>=18,yes,1.63013699,4,Not Amplified,yes,1.690411,Agilent4x44k,F,Training
+gsm1205399,>=18,no,6.40273973,1,Not Amplified,no,6.40274,RNAseq,F,Training
+gsm1205701,>=18,yes,0.27671233,4,Not Amplified,yes,0.457534,RNAseq,F,Training
+252038210170_1_4,>=18,yes,0.5479452,4,Not Amplified,yes,0.906849,Agilent4x44k,F,Training
+252038210001_1_4,<18,yes,0.82739726,4,Not Amplified,yes,1.39726,Agilent4x44k,UF,Test
+252038210285_1_3,>=18,no,5.92054795,4,Not Amplified,no,5.920548,Agilent4x44k,F,Test
+252038210122_1_1,<18,no,13.65753425,2,Not Amplified,no,13.657534,Agilent4x44k,F,Test
+gsm1205729,>=18,yes,2.02191781,4,Amplified,yes,2.443836,RNAseq,UF,Test
+gsm1205681,>=18,yes,0.88219178,4,Amplified,yes,1.624658,RNAseq,UF,Test
+itcc0018,>=18,yes,1.21917808,4,Not Amplified,yes,1.668493,HG-U133plus2,F,Test
+gsm1205531,<18,no,6.16164384,4s,Not Amplified,no,6.161644,RNAseq,F,Test
+gsm1205432,>=18,yes,0.95068493,3,Amplified,yes,0.986301,RNAseq,UF,Test
+252038210011_1_2,>=18,yes,1.87671233,1,Amplified,yes,2.082192,Agilent4x44k,UF,Test
+gsm1205657,>=18,no,5.10136986,1,Not Amplified,no,5.10137,RNAseq,F,Test
+gsm1205588,>=18,no,18.08219178,4,Not Amplified,no,18.082192,RNAseq,UF,Test
+252038210045_1_4,<18,no,7.71506849,1,Not Amplified,no,7.715068,Agilent4x44k,F,Test
+gsm1205693,<18,yes,0.86849315,4,Amplified,yes,1.356164,RNAseq,UF,Test
+gsm1205335,<18,no,11.0739726,1,Not Amplified,no,11.073973,RNAseq,F,Test
+gsm1205479,>=18,yes,1.45753425,4,Not Amplified,yes,1.715068,RNAseq,UF,Test
+itcc0002,<18,no,13.4630137,2,Not Amplified,no,13.463014,HG-U133plus2,F,Test
+gsm1205367,<18,yes,3.09041096,3,Not Amplified,no,9.756164,RNAseq,F,Test
+gsm1205317,>=18,yes,1.10136986,3,Amplified,yes,1.139726,RNAseq,F,Test
+252038210088_1_1,<18,no,8.89863014,4s,Not Amplified,no,8.89863,Agilent4x44k,F,Test
+gsm1205502,>=18,no,6.23287671,4,Amplified,no,6.232877,RNAseq,UF,Test
+gsm1205270,<18,no,13.36164384,1,Not Amplified,no,13.361644,RNAseq,F,Test
+252038210214_1_1,>=18,NA,NA,3,Not Amplified,yes,2.958904,Agilent4x44k,F,Test
+252038210072_1_1,<18,yes,1.07671233,4s,Not Amplified,yes,1.147945,Agilent4x44k,F,Test
+gsm1205430,<18,no,6.23561644,3,Not Amplified,no,6.235616,RNAseq,F,Test
+gsm1205621,>=18,yes,1.93150685,4,Not Amplified,yes,10.435616,RNAseq,F,Test
+gsm1205284,<18,no,9.39178082,2,Not Amplified,no,9.391781,RNAseq,F,Test
+gsm1205553,<18,yes,0.44109589,4s,Amplified,yes,0.572603,RNAseq,UF,Test
+1080746,<18,yes,0.56986301,4,Amplified,yes,0.589041,HG-U133plus2,UF,Test
+gsm1205673,>=18,no,10.5369863,4,Not Amplified,no,10.536986,RNAseq,UF,Test
+gsm1205651,>=18,yes,0.78630137,4,Amplified,yes,1.816438,RNAseq,UF,Test
+gsm1205365,<18,no,6.99178082,3,Not Amplified,no,6.991781,RNAseq,F,Test
+itcc0008,<18,no,18.91506849,2,Not Amplified,no,18.915068,HG-U133plus2,F,Test
+252038210098_1_2,<18,no,9.68767123,4,Not Amplified,no,9.687671,Agilent4x44k,F,Test
+252038210100_1_3,<18,no,12.03287671,1,Not Amplified,no,12.032877,Agilent4x44k,F,Test
+252038210164_1_3,<18,no,5.99726027,2,Not Amplified,no,5.99726,Agilent4x44k,F,Test
+gsm1205239,>=18,yes,5.52328767,4,Not Amplified,yes,7.769863,RNAseq,F,Test
+gsm1205400,<18,no,6.25479452,1,Not Amplified,no,6.254795,RNAseq,F,Test
+gsm1205512,<18,no,9.78356164,4s,Not Amplified,no,9.783562,RNAseq,F,Test
+252038210288_1_3,>=18,yes,1.51232877,4,Amplified,yes,1.808219,Agilent4x44k,UF,Test
+252038210031_1_3,<18,no,12.24383562,4,Not Amplified,no,12.243836,Agilent4x44k,F,Test
+252038210162_1_1,<18,no,6,2,Not Amplified,no,6,Agilent4x44k,F,Test
+252038210263_1_1,>=18,no,5.19452055,1,Not Amplified,no,5.194521,Agilent4x44k,F,Test
+252038210122_1_2,<18,yes,1.10684932,2,Not Amplified,no,10.945205,Agilent4x44k,F,Test
+252038210169_1_3,<18,no,6.87945205,3,Not Amplified,no,6.879452,Agilent4x44k,F,Test
+gsm1205449,<18,yes,0.18630137,2,Not Amplified,no,5.257534,RNAseq,F,Test
+gsm1205542,<18,yes,0.18082192,4s,Not Amplified,yes,0.180822,RNAseq,F,Test
+252038210163_1_4,<18,no,6.29041096,4,Not Amplified,no,6.290411,Agilent4x44k,F,Test
+252038210052_1_1,>=18,no,12.33972603,4,Not Amplified,no,12.339726,Agilent4x44k,F,Test
+gsm1205321,<18,no,14.33972603,4,Not Amplified,no,14.339726,RNAseq,F,Test
+gsm1205614,>=18,yes,3.98630137,4,Not Amplified,yes,6.367123,RNAseq,F,Test
+gsm1205403,<18,no,5.79178082,1,Not Amplified,no,5.791781,RNAseq,F,Test
+252038210125_1_2,<18,no,7.05753425,1,Not Amplified,no,7.057534,Agilent4x44k,F,Test
+gsm1205695,>=18,yes,1.72876712,4,Not Amplified,yes,3.827397,RNAseq,UF,Test
+gsm1205276,>=18,no,10.2739726,2,Not Amplified,no,10.273973,RNAseq,F,Test
+gsm1205453,<18,no,7.27671233,1,Not Amplified,no,7.276712,RNAseq,F,Test
+252038210061_1_2,<18,yes,3.83287671,4,Not Amplified,yes,10.978082,Agilent4x44k,F,Test
+gsm1205304,<18,no,12.31232877,3,Not Amplified,no,12.312329,RNAseq,F,Test
+gsm328991,<18,no,6.73972603,3,Not Amplified,no,6.739726,HG-U133plus2,F,Test
+252038210020_1_3,>=18,no,7.55068493,3,Not Amplified,no,7.550685,Agilent4x44k,F,Test
+gsm1205391,<18,no,9.81917808,1,Not Amplified,no,9.819178,RNAseq,F,Test
+252038210098_1_1,<18,no,5.37260274,1,Not Amplified,no,5.372603,Agilent4x44k,F,Test
+252038210052_1_3,>=18,no,6.80821918,4,Not Amplified,no,6.808219,Agilent4x44k,UF,Test
+252038210027_1_1,<18,no,7.77808219,4s,Not Amplified,no,7.778082,Agilent4x44k,F,Test
+252038210214_1_3,<18,NA,NA,2,Not Amplified,no,17.753425,Agilent4x44k,F,Test
+gsm1205311,>=18,yes,3.41369863,3,Not Amplified,no,9.739726,RNAseq,F,Test
+gsm1205386,>=18,yes,0.15342466,2,Not Amplified,yes,1.430137,RNAseq,UF,Test
+252038210012_1_1,<18,no,15.05205479,4s,Not Amplified,no,15.052055,Agilent4x44k,UF,Test
+252038210062_1_1,>=18,no,8.14246575,4,Amplified,no,8.142466,Agilent4x44k,UF,Test
+gsm1205291,>=18,no,7.46027397,1,Not Amplified,no,7.460274,RNAseq,F,Test
+itcc0105,<18,no,9.49041096,1,Not Amplified,no,9.490411,HG-U133plus2,F,Test
+gsm1205503,>=18,no,5.71506849,4,Amplified,no,5.715068,RNAseq,F,Test
+252038210063_1_1,<18,no,10.03287671,2,Not Amplified,no,10.032877,Agilent4x44k,F,Test
+252038210074_1_2,<18,no,8.83013699,1,Not Amplified,no,8.830137,Agilent4x44k,F,Test
+252038210127_1_2,<18,no,5.66027397,4s,Not Amplified,no,5.660274,Agilent4x44k,F,Test
+252038210205_1_1,<18,no,10.68767123,4,Not Amplified,no,10.687671,Agilent4x44k,F,Test
+252038210083_1_2,>=18,yes,1.53972603,4,Not Amplified,no,9.769863,Agilent4x44k,F,Test
+252038210064_1_1,<18,no,8.59178082,2,Not Amplified,no,8.591781,Agilent4x44k,F,Test
+252038210207_1_3,<18,yes,0.09041096,3,Not Amplified,no,7.835616,Agilent4x44k,F,Test
+gsm1205608,>=18,yes,0.71780822,4,Not Amplified,yes,1.482192,RNAseq,UF,Test
+itcc0031,<18,yes,1.66849315,4,Amplified,yes,2.372603,HG-U133plus2,F,Test
+252038210064_1_4,<18,no,11.96712329,3,Not Amplified,no,11.967123,Agilent4x44k,F,Test
+gsm329007,>=18,yes,1.56164384,4,Amplified,yes,1.726027,HG-U133plus2,F,Test
+gsm1205383,<18,no,7.34246575,2,Not Amplified,no,7.342466,RNAseq,F,Test
+252038210171_1_1,>=18,yes,0.54246575,4,Amplified,yes,0.742466,Agilent4x44k,UF,Test
+252038210283_1_4,>=18,yes,1.89041096,4,Amplified,yes,2.049315,Agilent4x44k,UF,Test
+itcc0144,<18,no,10.26575342,1,Not Amplified,no,10.265753,HG-U133plus2,F,Test
+252038210050_1_4,<18,no,5.63013699,2,Amplified,no,5.630137,Agilent4x44k,UF,Test
+gsm1205255,<18,no,9.6109589,2,Not Amplified,no,9.610959,RNAseq,F,Test
+252038210078_1_1,<18,no,11.36164384,1,Not Amplified,no,11.361644,Agilent4x44k,F,Test
+gsm1205669,>=18,no,8.87123288,4,Amplified,no,8.871233,RNAseq,UF,Test
+252038210180_1_3,>=18,NA,NA,4,Not Amplified,yes,10.60274,Agilent4x44k,UF,Test
+gsm1205429,>=18,yes,2.37260274,3,Not Amplified,yes,4.219178,RNAseq,F,Test
+252038210009_1_3,>=18,no,7.6739726,4,Not Amplified,no,7.673973,Agilent4x44k,F,Test
+gsm1205620,>=18,yes,0.55068493,4,Amplified,yes,0.567123,RNAseq,UF,Test
+252038210050_1_1,>=18,yes,1.15342466,4,Not Amplified,yes,1.747945,Agilent4x44k,UF,Test
+252038210113_1_3,<18,no,11.38630137,2,Not Amplified,no,11.386301,Agilent4x44k,F,Test
+itcc0041,<18,no,14.02191781,3,Not Amplified,no,14.021918,HG-U133plus2,UF,Test
+gsm1205707,<18,no,7.90684931,1,Not Amplified,no,7.906849,RNAseq,F,Test
+252038210006_1_4,<18,yes,0.87945206,3,Not Amplified,no,7.380822,Agilent4x44k,F,Test
+252038210170_1_2,<18,yes,0.08219178,4s,Not Amplified,yes,0.09863,Agilent4x44k,F,Test
+1080071,<18,yes,1.49589041,4s,Amplified,yes,2.30137,HG-U133plus2,F,Test
+252038210061_1_4,<18,yes,0.1479452,2,Not Amplified,no,9.873973,Agilent4x44k,F,Test
+252038210160_1_2,>=18,yes,1.28219178,4,Amplified,no,5.435616,Agilent4x44k,UF,Test
+gsm1205337,<18,no,8.25479452,1,Not Amplified,no,8.254795,RNAseq,F,Test
+252038210015_1_1,<18,no,6.44109589,4s,Not Amplified,no,6.441096,Agilent4x44k,F,Test
+gsm329001,<18,no,6.73972603,2,Not Amplified,no,6.739726,HG-U133plus2,F,Test
+252038210026_1_1,<18,no,14.51506849,4,Not Amplified,no,14.515068,Agilent4x44k,F,Test
+252038210058_1_1,<18,no,8.28493151,4s,Not Amplified,no,8.284932,Agilent4x44k,F,Test
+gsm1205475,<18,no,7.69041096,4,Not Amplified,no,7.690411,RNAseq,F,Test
+252038210164_1_4,<18,no,5.83013699,2,Not Amplified,no,5.830137,Agilent4x44k,F,Test
+252038210177_1_2,>=18,NA,NA,3,Not Amplified,no,5.178082,Agilent4x44k,F,Test
+gsm1205299,<18,no,13.69041096,2,Not Amplified,no,13.690411,RNAseq,F,Test
+252038210169_1_1,>=18,yes,1.16712329,4,Amplified,yes,1.986301,Agilent4x44k,F,Test
+1081068,>=18,yes,0.54520548,4,Amplified,yes,0.545205,HG-U133plus2,F,Test
+gsm1205338,<18,no,6.45205479,1,Not Amplified,no,6.452055,RNAseq,F,Test
+252038210109_1_4,<18,no,12.96986301,1,Not Amplified,no,12.969863,Agilent4x44k,F,Test
+gsm1205277,>=18,no,10.28219178,2,Not Amplified,no,10.282192,RNAseq,F,Test
+gsm1205683,>=18,yes,0.22739726,4,Not Amplified,yes,3.252055,RNAseq,UF,Test
+gsm1205393,<18,no,7.6,1,Not Amplified,no,7.6,RNAseq,F,Test
+itcc0025,>=18,yes,0.5369863,4,Amplified,yes,0.536986,HG-U133plus2,UF,Test
+gsm1205492,>=18,yes,1.41917808,4,NA,yes,1.649315,RNAseq,F,Test
+gsm1205380,>=18,no,11.22191781,4,Not Amplified,no,11.221918,RNAseq,F,Test
+gsm1205427,>=18,yes,1.47945206,3,Not Amplified,yes,3.068493,RNAseq,F,Test
+gsm1205290,<18,no,5.63013699,1,Not Amplified,no,5.630137,RNAseq,F,Test
+gsm1205528,<18,no,7.09041096,4s,Not Amplified,no,7.090411,RNAseq,F,Test
+gsm1205256,<18,no,6.84657534,1,Not Amplified,no,6.846575,RNAseq,F,Test
+252038210015_1_4,<18,no,7.47945206,4,Not Amplified,no,7.479452,Agilent4x44k,F,Test
+252038210060_1_3,<18,no,7.88493151,2,Not Amplified,no,7.884932,Agilent4x44k,F,Test
+gsm1205354,<18,yes,0.36164384,2,Not Amplified,no,8.813699,RNAseq,F,Test
+252038210153_1_4,>=18,yes,1.83013699,4,Not Amplified,no,5.175342,Agilent4x44k,F,Test
+itcc0198,<18,no,9.9342465700000009,4,Amplified,no,9.934247,HG-U133plus2,UF,Test
+252038210111_1_3,>=18,no,10.49863014,2,Not Amplified,no,10.49863,Agilent4x44k,F,Test
+itcc0001,<18,no,21.57808219,2,Not Amplified,no,21.578082,HG-U133plus2,F,Test
+252038210181_1_1,<18,NA,NA,4,Not Amplified,no,11.013699,Agilent4x44k,UF,Test
+gsm1205288,<18,no,7.54246575,4s,Not Amplified,no,7.542466,RNAseq,F,Test
+gsm1205283,<18,no,10.91506849,2,Not Amplified,no,10.915068,RNAseq,F,Test
+gsm1205605,<18,no,7.81369863,1,Not Amplified,no,7.813699,RNAseq,F,Test
+252038210158_1_3,<18,no,5.97808219,1,Not Amplified,no,5.978082,Agilent4x44k,F,Test
+252038210081_1_3,>=18,yes,2.5260274,4,Not Amplified,yes,3.416438,Agilent4x44k,F,Test
+itcc0285,<18,no,5.7260274,2,Not Amplified,no,5.726027,HG-U133plus2,F,Test
+gsm1205420,>=18,no,5.46575342,2,Not Amplified,no,5.465753,RNAseq,F,Test
+gsm1205622,>=18,yes,2.22465753,4,Not Amplified,yes,3.983562,RNAseq,F,Test
+252038210118_1_2,>=18,no,5.03835616,1,Not Amplified,no,5.038356,Agilent4x44k,F,Test
+252038210216_1_4,<18,NA,NA,3,Not Amplified,no,6.575342,Agilent4x44k,F,Test
+1080562,>=18,yes,0.6,3,Amplified,yes,0.6,HG-U133plus2,F,Test
+gsm1205285,>=18,no,5.27123288,2,Not Amplified,no,5.271233,RNAseq,F,Test
+itcc0130,>=18,yes,1.43013699,4,Not Amplified,yes,1.430137,HG-U133plus2,F,Test
+itcc0386,>=18,no,8.9342465700000009,2,Not Amplified,no,8.934247,HG-U133plus2,F,Test
+itcc0145,<18,no,10.14246575,2,Not Amplified,no,10.142466,HG-U133plus2,F,Test
+252038210032_1_2,<18,no,6.74520548,3,Not Amplified,no,6.745205,Agilent4x44k,F,Test
+gsm1205548,<18,yes,0.56712329,4s,Not Amplified,no,7.665753,RNAseq,F,Test
+gsm1205431,>=18,yes,0.90410959,3,Amplified,yes,1.106849,RNAseq,UF,Test
+252038210006_1_1,<18,no,6.63835616,2,Not Amplified,no,6.638356,Agilent4x44k,F,Test
+gsm1205533,<18,no,6.15068493,4s,Not Amplified,no,6.150685,RNAseq,F,Test
+gsm1205310,<18,no,9.76986301,3,Not Amplified,no,9.769863,RNAseq,F,Test
+gsm1205392,<18,no,9.80273973,1,Not Amplified,no,9.80274,RNAseq,F,Test
+gsm1205627,>=18,yes,1.03287671,4,Not Amplified,yes,1.279452,RNAseq,UF,Test
+gsm1205624,<18,no,8.24931507,4,Not Amplified,no,8.249315,RNAseq,F,Test
+gsm1205238,>=18,yes,1.62465753,4,Not Amplified,yes,3.731507,RNAseq,F,Test
+gsm1205445,<18,no,5.11232877,1,Not Amplified,no,5.112329,RNAseq,F,Test
+gsm1205645,>=18,yes,1.24383562,4,Amplified,yes,1.520548,RNAseq,UF,Test
+gsm1205474,>=18,no,6.01917808,1,Not Amplified,no,6.019178,RNAseq,F,Test
+itcc0063,<18,no,9.35342466,1,Not Amplified,no,9.353425,HG-U133plus2,F,Test
+1080009,>=18,yes,0.92054795,3,Amplified,yes,1.460274,HG-U133plus2,UF,Test
+itcc0398,<18,no,18.01917808,4s,Not Amplified,no,18.019178,HG-U133plus2,F,Test
+gsm1205488,>=18,no,12.35068493,4,Not Amplified,no,12.350685,RNAseq,F,Test
+252038210005_1_2,<18,no,6.86575343,4,Amplified,no,6.865753,Agilent4x44k,UF,Test
+gsm1205308,<18,no,10.49863014,3,Not Amplified,no,10.49863,RNAseq,F,Test
+252038210071_1_4,<18,yes,0.5260274,2,Not Amplified,no,10.369863,Agilent4x44k,F,Test
+252038210186_1_2,>=18,yes,2.14520548,4,Not Amplified,yes,7.810959,Agilent4x44k,F,Test
+gsm1205315,>=18,no,8.52328767,3,Not Amplified,no,8.523288,RNAseq,F,Test
+gsm1205243,<18,no,6.0739726,4s,Not Amplified,no,6.073973,RNAseq,F,Test
+gsm1205301,<18,no,10.06849315,2,Not Amplified,no,10.068493,RNAseq,F,Test
+itcc0045,<18,no,11.20821918,3,Not Amplified,no,11.208219,HG-U133plus2,F,Test
+itcc0147,<18,no,12.03287671,2,Not Amplified,no,12.032877,HG-U133plus2,F,Test
+gsm1205384,<18,no,5.55890411,2,Not Amplified,no,5.558904,RNAseq,F,Test
+252038210160_1_4,<18,no,5.43013699,2,Not Amplified,no,5.430137,Agilent4x44k,F,Test
+252038210094_1_3,>=18,no,11.00273973,4,Amplified,no,11.00274,Agilent4x44k,F,Test
+gsm1205316,<18,no,14.10136986,3,Not Amplified,no,14.10137,RNAseq,F,Test
+252038210016_1_4,>=18,no,6.3369863,3,Not Amplified,no,6.336986,Agilent4x44k,F,Test
+252038210233_1_3,>=18,yes,2.98356164,4,Amplified,yes,3.621918,Agilent4x44k,UF,Test
+gsm1205589,>=18,no,6.24657534,4,Not Amplified,no,6.246575,RNAseq,F,Test
+itcc0003,<18,yes,0.26575342,4s,Not Amplified,no,20.430137,HG-U133plus2,F,Test
+252038210075_1_1,>=18,no,13.40273973,4,Not Amplified,no,13.40274,Agilent4x44k,F,Test
+252038210263_1_4,>=18,yes,0.23287671,4,Amplified,yes,0.30137,Agilent4x44k,F,Test
+252038210002_1_4,<18,no,5.9260274,2,Not Amplified,no,5.926027,Agilent4x44k,F,Test
+252038210085_1_3,<18,yes,4.8,4,Not Amplified,no,11.534247,Agilent4x44k,F,Test
+252038210159_1_2,<18,yes,0.20273973,3,Not Amplified,no,5.978082,Agilent4x44k,F,Test
+gsm1205407,<18,yes,0.5260274,2,Not Amplified,no,9.413699,RNAseq,F,Test
+gsm1205366,>=18,no,6.47945206,3,Not Amplified,no,6.479452,RNAseq,F,Test
+252038210285_1_2,>=18,yes,2.68219178,4,Amplified,yes,2.972603,Agilent4x44k,UF,Test
+gsm1205644,>=18,yes,1.04657534,3,Amplified,yes,1.268493,RNAseq,UF,Test
+252038210163_1_3,>=18,no,6.04109589,4,Amplified,no,6.041096,Agilent4x44k,UF,Test
+gsm1205278,<18,no,9.0739726,2,Not Amplified,no,9.073973,RNAseq,F,Test
+gsm329016,>=18,yes,0.82191781,4,Not Amplified,yes,0.821918,HG-U133plus2,F,Test
+gsm1205251,<18,no,8.39452055,2,Not Amplified,no,8.394521,RNAseq,F,Test
+gsm1205372,<18,no,14.01917808,3,Not Amplified,no,14.019178,RNAseq,F,Test
+itcc0181,<18,no,12.0109589,1,Not Amplified,no,12.010959,HG-U133plus2,F,Test
+252038210168_1_4,>=18,yes,0.63835616,4,Not Amplified,yes,3.19726,Agilent4x44k,F,Test
+252038210043_1_3,>=18,yes,2.43835616,4,Not Amplified,yes,2.646575,Agilent4x44k,F,Test
+252038210059_1_4,<18,no,10.26575342,2,Not Amplified,no,10.265753,Agilent4x44k,F,Test
+itcc0387,>=18,yes,1,4,Amplified,yes,1.054795,HG-U133plus2,UF,Test
+itcc0391,>=18,no,7.34520548,4,Not Amplified,no,7.345205,HG-U133plus2,F,Test
+gsm1205240,>=18,yes,2.30136986,4,Amplified,yes,3.263014,RNAseq,UF,Test
+252038210016_1_1,<18,no,10.81643836,4,Not Amplified,no,10.816438,Agilent4x44k,UF,Test
+gsm1205241,<18,no,5.60547945,2,Amplified,no,5.605479,RNAseq,UF,Test
+gsm1205411,<18,no,9.34520548,2,Not Amplified,no,9.345205,RNAseq,F,Test
+1080587,<18,yes,1.2739726,4,Not Amplified,yes,1.273973,HG-U133plus2,F,Test
+gsm1205523,<18,no,9.45479452,4s,Not Amplified,no,9.454795,RNAseq,F,Test
+itcc0385,>=18,yes,1.7479452,4,Not Amplified,yes,1.824658,HG-U133plus2,UF,Test
+252038210124_1_2,<18,yes,0.79178082,2,Not Amplified,no,10.945205,Agilent4x44k,F,Test
+252038210024_1_4,>=18,no,9.19726027,4,Not Amplified,no,9.19726,Agilent4x44k,F,Test
+252038210117_1_3,<18,yes,3.0739726,4,Not Amplified,no,5.068493,Agilent4x44k,UF,Test
+itcc0195,>=18,yes,1.0520548,4,Not Amplified,yes,1.084932,HG-U133plus2,F,Test
+gsm1205712,>=18,yes,0.68493151,4,Amplified,yes,0.717808,RNAseq,UF,Test
+252038210098_1_3,>=18,yes,4.05479452,4,Not Amplified,no,11.739726,Agilent4x44k,F,Test
+gsm1205617,<18,no,7.59178082,4,Not Amplified,no,7.591781,RNAseq,F,Test
+gsm1205615,>=18,yes,0.67123288,4,Amplified,yes,1.136986,RNAseq,UF,Test
+252038210164_1_1,>=18,no,5.90684931,1,Not Amplified,no,5.906849,Agilent4x44k,F,Test
+gsm1205585,<18,no,5.43561644,1,Not Amplified,no,5.435616,RNAseq,F,Test
+252038210216_1_3,<18,NA,NA,4s,Not Amplified,no,12,Agilent4x44k,F,Test
+252038210097_1_3,>=18,no,10.05753425,3,Not Amplified,no,10.057534,Agilent4x44k,F,Test
+1080079,>=18,yes,1.36438356,4,Not Amplified,yes,1.786301,HG-U133plus2,F,Test
+252038210077_1_4,<18,no,15.16986301,4s,Not Amplified,no,15.169863,Agilent4x44k,F,Test
+252038210163_1_2,<18,yes,0.50958904,3,Not Amplified,no,5.810959,Agilent4x44k,F,Test
+252038210286_1_3,>=18,no,5.80273973,4,Not Amplified,no,5.80274,Agilent4x44k,UF,Test
+gsm1205446,<18,no,5.50136986,1,Not Amplified,no,5.50137,RNAseq,F,Test
+gsm1205477,<18,yes,3.83287671,4,Not Amplified,no,9.775342,RNAseq,F,Test
+gsm1205680,>=18,yes,1.24109589,4,Amplified,yes,1.30411,RNAseq,UF,Test
+gsm329009,<18,yes,1.7260274,4s,Not Amplified,yes,2.054795,HG-U133plus2,F,Test
+gsm1205536,<18,no,5.7890411,4s,Not Amplified,no,5.789041,RNAseq,F,Test
+gsm1205599,>=18,yes,1.54246575,4,Amplified,yes,2.939726,RNAseq,UF,Test
+itcc0056,>=18,yes,0.12328767,4,Amplified,yes,0.172603,HG-U133plus2,UF,Test
+1080048,<18,no,5.69589041,1,Amplified,no,5.69589,HG-U133plus2,F,Test
+gsm1205246,<18,no,6.31780822,4s,Amplified,no,6.317808,RNAseq,UF,Test
+252038210183_1_4,>=18,yes,2.99178082,4,Not Amplified,yes,4.80274,Agilent4x44k,F,Test
+252038210185_1_4,>=18,yes,2.18356164,4,Not Amplified,no,10.558904,Agilent4x44k,F,Test
+gsm1205534,<18,yes,0.82465753,4s,Not Amplified,no,5.942466,RNAseq,F,Test
+gsm329000,<18,no,9.4520548,4,Amplified,no,9.452055,HG-U133plus2,UF,Test
+252038210108_1_2,>=18,yes,3.41369863,3,Not Amplified,no,11.142466,Agilent4x44k,F,Test
+gsm1205521,<18,yes,0.8109589,4s,Not Amplified,no,7.630137,RNAseq,UF,Test
+gsm1205616,>=18,no,5.62739726,4,Not Amplified,no,5.627397,RNAseq,F,Test
+252038210125_1_4,<18,no,6.34520548,2,Not Amplified,no,6.345205,Agilent4x44k,F,Test
+gsm329006,<18,yes,0.73972603,4,Amplified,yes,0.821918,HG-U133plus2,F,Test
+gsm1205415,<18,no,5.75068493,2,Not Amplified,no,5.750685,RNAseq,F,Test
+252038210145_1_3,<18,no,6.47671233,1,Not Amplified,no,6.476712,Agilent4x44k,F,Test
+gsm1205377,>=18,yes,1.76712329,4,Not Amplified,yes,2.463014,RNAseq,F,Test
+252038210054_1_2,>=18,no,7.99452055,3,Not Amplified,no,7.994521,Agilent4x44k,F,Test
+itcc0184,>=18,yes,0.56438356,4,Not Amplified,yes,0.605479,HG-U133plus2,UF,Test
+252038210126_1_3,<18,yes,1.55342466,2,Not Amplified,no,9.249315,Agilent4x44k,F,Test
+252038210047_1_1,<18,no,10.94794521,4s,Not Amplified,no,10.947945,Agilent4x44k,F,Test
+gsm1205326,<18,no,9.79726027,4,Not Amplified,no,9.79726,RNAseq,F,Test
+gsm1205573,>=18,yes,2.29315069,4,Amplified,no,5.619178,RNAseq,UF,Test
+gsm1205527,<18,no,7.20821918,4s,Not Amplified,no,7.208219,RNAseq,F,Test
+gsm1205507,<18,yes,0.89315069,4,Amplified,yes,1.071233,RNAseq,UF,Test
+252038210046_1_2,<18,yes,0.80821918,3,Amplified,yes,1.175342,Agilent4x44k,F,Test
+gsm1205564,>=18,yes,1.56164384,2,Amplified,yes,1.972603,RNAseq,UF,Test
+252038210153_1_1,>=18,no,5.10410959,1,Not Amplified,no,5.10411,Agilent4x44k,F,Test
+252038210151_1_2,<18,yes,1.95890411,1,Not Amplified,no,6.673973,Agilent4x44k,UF,Test
+252038210176_1_4,>=18,NA,NA,4,Amplified,yes,0.575342,Agilent4x44k,F,Test
+252038210016_1_2,>=18,yes,1.82191781,3,Not Amplified,yes,2.421918,Agilent4x44k,UF,Test
+gsm329014,>=18,yes,0.32876712,4,Not Amplified,yes,0.328767,HG-U133plus2,F,Test
+gsm1205733,<18,yes,0.28767123,1,Not Amplified,no,15.835616,RNAseq,UF,Test
+itcc0022,>=18,yes,1.07945205,4,Amplified,yes,1.079452,HG-U133plus2,UF,Test
+gsm1205314,<18,no,12.60273973,3,Not Amplified,no,12.60274,RNAseq,F,Test
+252038210263_1_2,>=18,yes,1.10958904,4,Amplified,yes,1.567123,Agilent4x44k,F,Test
+gsm1205550,<18,no,5.75616438,4s,Amplified,no,5.756164,RNAseq,UF,Test
+itcc0193,<18,no,10.33150685,1,Not Amplified,no,10.331507,HG-U133plus2,F,Test
+252038210101_1_1,<18,no,16.52876712,1,Not Amplified,no,16.528767,Agilent4x44k,F,Test
+gsm1205294,<18,no,9.18356164,1,Not Amplified,no,9.183562,RNAseq,F,Test
+gsm1205406,>=18,yes,1.43561644,1,Amplified,yes,1.621918,RNAseq,UF,Test
+252038210106_1_4,<18,no,10.84383562,4,Not Amplified,no,10.843836,Agilent4x44k,F,Test
+252038210148_1_3,<18,no,7.0739726,1,Not Amplified,no,7.073973,Agilent4x44k,F,Test
+252038210070_1_1,>=18,no,8.1260274,4,Not Amplified,no,8.126027,Agilent4x44k,F,Test
+gsm1205281,<18,no,7.09863014,2,Not Amplified,no,7.09863,RNAseq,F,Test
+gsm1205711,<18,yes,0.09041096,3,Not Amplified,no,5.213699,RNAseq,F,Test
+gsm1205435,<18,yes,1.14246575,3,Amplified,yes,1.441096,RNAseq,UF,Test
+gsm1205447,<18,no,6.2,1,Not Amplified,no,6.2,RNAseq,F,Test
+gsm1205551,<18,yes,0.96164384,4,Amplified,yes,1.476712,RNAseq,UF,Test
+itcc0032,<18,no,18.82739726,4,Not Amplified,no,18.827397,HG-U133plus2,F,Test
+1081271,>=18,yes,1.24383562,4,Amplified,yes,1.243836,HG-U133plus2,F,Test
+gsm1205496,<18,yes,1.18630137,4,Amplified,yes,1.947945,RNAseq,UF,Test
+itcc0102,<18,yes,0.39726027,4s,Not Amplified,no,6.750685,HG-U133plus2,F,Test
+gsm1205351,<18,no,7.32328767,1,Not Amplified,no,7.323288,RNAseq,F,Test
+gsm1205349,>=18,no,7.75890411,1,NA,no,7.758904,RNAseq,F,Test
+252038210162_1_2,<18,no,5.8109589,1,Not Amplified,no,5.810959,Agilent4x44k,F,Test
+itcc0392,>=18,yes,0.48767123,3,Amplified,yes,0.487671,HG-U133plus2,UF,Test
+252038210185_1_2,<18,no,7.31232877,4,Not Amplified,no,7.312329,Agilent4x44k,F,Test
+gsm329019,<18,yes,1.47945206,4s,Not Amplified,yes,1.479452,HG-U133plus2,F,Test
+252038210159_1_1,>=18,no,5.68493151,4,Not Amplified,no,5.684932,Agilent4x44k,F,Test
+252038210011_1_3,<18,no,7.56712329,4,Not Amplified,no,7.567123,Agilent4x44k,F,Test
+gsm1205619,>=18,no,13.89041096,2,Not Amplified,no,13.890411,RNAseq,F,Test
+252038210288_1_2,>=18,no,5.62191781,4,Not Amplified,no,5.621918,Agilent4x44k,UF,Test
+gsm1205356,<18,yes,1.84657534,2,Not Amplified,yes,4.986301,RNAseq,F,Test
+252038210173_1_4,>=18,yes,2.42739726,4,Not Amplified,no,5.435616,Agilent4x44k,F,Test
+252038210084_1_1,>=18,yes,2.29589041,4,Not Amplified,yes,4.243836,Agilent4x44k,F,Test
+252038210273_1_3,>=18,yes,0.32876712,4,Amplified,yes,0.780822,Agilent4x44k,F,Test
+gsm1205334,<18,no,9.97534247,1,Not Amplified,no,9.975342,RNAseq,F,Test
+252038210157_1_1,<18,no,5.29589041,1,Not Amplified,no,5.29589,Agilent4x44k,F,Test
+gsm1205395,<18,no,5.27671233,1,Not Amplified,no,5.276712,RNAseq,F,Test
+252038210010_1_3,<18,no,8.99452055,4,Not Amplified,no,8.994521,Agilent4x44k,F,Test
+gsm1205378,<18,no,10.02739726,3,Not Amplified,no,10.027397,RNAseq,F,Test
+gsm1205343,<18,yes,0.09041096,1,Not Amplified,no,10.679452,RNAseq,F,Test
+gsm1205541,<18,no,5.49315068,4s,Not Amplified,no,5.493151,RNAseq,UF,Test
+252038210183_1_3,>=18,yes,1.92876712,3,Not Amplified,yes,5.556164,Agilent4x44k,F,Test
+252038210283_1_3,>=18,yes,0.75342466,4,Amplified,yes,0.810959,Agilent4x44k,UF,Test
+252038210016_1_3,>=18,no,6.15616438,3,Not Amplified,no,6.156164,Agilent4x44k,F,Test
+gsm1205443,<18,no,7.70410959,1,Not Amplified,no,7.70411,RNAseq,F,Test
+1080563,<18,yes,0.59178082,2,Amplified,yes,0.591781,HG-U133plus2,F,Test
+gsm1205569,>=18,no,7.86575343,4,Not Amplified,no,7.865753,RNAseq,UF,Test
+gsm1205606,>=18,yes,1.7369863,4,Not Amplified,yes,1.991781,RNAseq,F,Test
+gsm1205501,>=18,yes,1.21369863,4,Amplified,yes,2.147945,RNAseq,F,Test
+252038210273_1_1,>=18,no,7.16712329,4,Amplified,no,7.167123,Agilent4x44k,UF,Test
+gsm1205332,<18,no,10.63835616,1,Not Amplified,no,10.638356,RNAseq,F,Test
+gsm1205295,>=18,no,9.04383562,1,Not Amplified,no,9.043836,RNAseq,F,Test
+gsm1205258,>=18,no,8.62739726,1,Not Amplified,no,8.627397,RNAseq,F,Test
+252038210155_1_4,<18,no,5.66849315,1,Not Amplified,no,5.668493,Agilent4x44k,F,Test
+252038210272_1_3,>=18,yes,2.48767123,4,Amplified,no,8.772603,Agilent4x44k,UF,Test
+gsm1205279,>=18,no,11.95890411,2,Not Amplified,no,11.958904,RNAseq,F,Test
+gsm1205510,<18,yes,0.87123288,4s,Not Amplified,no,7.964384,RNAseq,F,Test
+gsm1205428,<18,yes,0.87945206,3,Not Amplified,no,5.843836,RNAseq,F,Test
+252038210287_1_3,<18,no,7.81643836,4,Amplified,no,7.816438,Agilent4x44k,UF,Test
+gsm1205649,>=18,yes,2.39452055,4,Not Amplified,no,5.865753,RNAseq,F,Test
+252038210009_1_2,<18,no,6.8739726,2,Not Amplified,no,6.873973,Agilent4x44k,F,Test
+gsm1205640,<18,yes,0.15068493,4,Amplified,yes,0.556164,RNAseq,UF,Test
+itcc0109,<18,no,15.3369863,3,Not Amplified,no,15.336986,HG-U133plus2,F,Test
+itcc0026,>=18,no,7.9890411,4,Amplified,no,7.989041,HG-U133plus2,F,Test
+gsm1205708,<18,no,7.09863014,1,Not Amplified,no,7.09863,RNAseq,F,Test
+gsm1205607,<18,no,5.52054794,1,Not Amplified,no,5.520548,RNAseq,F,Test
+gsm1205494,>=18,yes,1.20821918,4,Amplified,yes,1.309589,RNAseq,UF,Test
+gsm1205677,>=18,yes,1.30136986,4,Not Amplified,yes,2.186301,RNAseq,UF,Test
+252038210127_1_3,<18,no,6.07945205,4,Not Amplified,no,6.079452,Agilent4x44k,F,Test
+itcc0017,>=18,yes,1.4,4,Not Amplified,yes,1.578082,HG-U133plus2,F,Test
+gsm1205720,<18,yes,1.95890411,1,Not Amplified,no,5.079452,RNAseq,F,Test
+gsm1205370,<18,yes,0.56438356,4,Not Amplified,no,9.873973,RNAseq,F,Test
+gsm1205687,<18,no,13.39726027,2,Not Amplified,no,13.39726,RNAseq,F,Test
+gsm1205730,<18,no,12.29315068,1,Not Amplified,no,12.293151,RNAseq,F,Test
+gsm1205329,>=18,yes,1.36164384,4,Not Amplified,yes,3.958904,RNAseq,F,Test
+gsm1205481,>=18,yes,1.30136986,4,Not Amplified,yes,1.646575,RNAseq,F,Test
+252038210034_1_2,<18,no,7.00821918,1,Not Amplified,no,7.008219,Agilent4x44k,F,Test
+252038210028_1_3,<18,no,11.95616438,4s,Not Amplified,no,11.956164,Agilent4x44k,F,Test
+gsm1205678,<18,no,8.1890411,4,Not Amplified,no,8.189041,RNAseq,UF,Test
+252038210216_1_2,<18,no,5.0520548,2,Not Amplified,no,5.052055,Agilent4x44k,F,Test
+252038210149_1_4,<18,no,5.50410959,1,Not Amplified,no,5.50411,Agilent4x44k,F,Test
+252038210161_1_3,<18,no,6.01917808,1,Not Amplified,no,6.019178,Agilent4x44k,F,Test
+252038210283_1_2,>=18,yes,1.12328767,4,Amplified,yes,1.394521,Agilent4x44k,F,Test
+252038210057_1_3,>=18,no,6.76712329,4,Not Amplified,no,6.767123,Agilent4x44k,F,Test
+252038210124_1_4,<18,no,9.76712329,4,Not Amplified,no,9.767123,Agilent4x44k,F,Test
+1081089,>=18,yes,0.87123288,4,Amplified,yes,0.871233,HG-U133plus2,F,Test
+itcc0143,<18,no,9.76164384,2,Not Amplified,no,9.761644,HG-U133plus2,F,Test
+252038210169_1_4,>=18,yes,0.02191781,4,Amplified,yes,0.021918,Agilent4x44k,UF,Test
+252038210143_1_2,<18,no,5.75616438,4s,Amplified,no,5.756164,Agilent4x44k,UF,Test
+gsm1205323,<18,yes,4.8,4,Not Amplified,no,10.457534,RNAseq,F,Test
+gsm1205513,<18,no,8.66575343,4s,Not Amplified,no,8.665753,RNAseq,F,Test
+252038210015_1_3,<18,no,6.17534247,4,Not Amplified,no,6.175342,Agilent4x44k,F,Test
+gsm1205331,>=18,yes,1.33150685,4,Not Amplified,yes,3.542466,RNAseq,F,Test
+252038210284_1_4,>=18,no,8.22191781,4,Not Amplified,no,8.221918,Agilent4x44k,UF,Test
+gsm1205396,>=18,no,6.94246575,1,Not Amplified,no,6.942466,RNAseq,F,Test
+gsm1205549,<18,no,7.4630137,4s,NA,no,7.463014,RNAseq,F,Test
+gsm1205244,>=18,yes,1.53972603,4,Not Amplified,no,8.635616,RNAseq,F,Test
+252038210009_1_1,<18,no,7.2630137,3,Not Amplified,no,7.263014,Agilent4x44k,F,Test
+itcc0390,>=18,yes,1.80821918,4,Amplified,yes,2.073973,HG-U133plus2,UF,Test
+gsm1205500,>=18,yes,0.58630137,4,Amplified,yes,0.986301,RNAseq,UF,Test
+gsm1205676,>=18,yes,2.23013699,4,Not Amplified,yes,2.542466,RNAseq,UF,Test
+itcc0024,>=18,yes,3.44931507,4,Not Amplified,yes,3.857534,HG-U133plus2,UF,Test
+itcc0134,<18,no,12.51780822,4s,Not Amplified,no,12.517808,HG-U133plus2,F,Test
+252038210030_1_1,<18,yes,0.42465753,2,Not Amplified,no,8.115068,Agilent4x44k,F,Test
+gsm1205674,>=18,yes,0.02191781,4,Amplified,yes,0.032877,RNAseq,UF,Test
+gsm1205663,>=18,no,7.31232877,4,Not Amplified,no,7.312329,RNAseq,F,Test
+252038210083_1_3,<18,no,9.99452055,2,Not Amplified,no,9.994521,Agilent4x44k,F,Test
+gsm329017,<18,yes,0.98630137,4,Not Amplified,yes,0.986301,HG-U133plus2,F,Test
+gsm1205560,<18,yes,0.82739726,4,Not Amplified,yes,1.39726,RNAseq,UF,Test
+gsm1205537,<18,yes,4.29315068,4s,Not Amplified,no,9.049315,RNAseq,F,Test
+1080147,>=18,yes,2.81917808,4,Amplified,yes,2.819178,HG-U133plus2,UF,Test
+1080375,>=18,yes,4.09315069,2,Not Amplified,no,9.438356,HG-U133plus2,UF,Test
+gsm1205339,<18,no,6.6630137,1,Not Amplified,no,6.663014,RNAseq,F,Test
+itcc0119,>=18,no,15.62465753,4,Not Amplified,no,15.624658,HG-U133plus2,UF,Test
+itcc0383,>=18,yes,0.8630137,4,Amplified,yes,0.890411,HG-U133plus2,UF,Test
+gsm1205684,>=18,yes,1.16164384,4,Not Amplified,yes,2.89863,RNAseq,UF,Test
+gsm1205414,<18,yes,0.19178082,2,Not Amplified,no,6.463014,RNAseq,F,Test
+252038210147_1_2,<18,no,6.38356164,4s,Not Amplified,no,6.383562,Agilent4x44k,F,Test
+gsm1205379,<18,no,9.32876712,3,Not Amplified,no,9.328767,RNAseq,F,Test
+252038210107_1_2,<18,no,10.93150685,4,Not Amplified,no,10.931507,Agilent4x44k,F,Test
+gsm1205575,>=18,no,6.6630137,4,Amplified,no,6.663014,RNAseq,UF,Test
+gsm1205525,<18,no,7.23561644,4s,Not Amplified,no,7.235616,RNAseq,F,Test
+252038210215_1_3,>=18,NA,NA,3,Not Amplified,yes,0.739726,Agilent4x44k,F,Test
+252038210205_1_2,<18,no,9.35890411,4,Not Amplified,no,9.358904,Agilent4x44k,F,Test
+252038210086_1_1,>=18,yes,5.17808219,4,Not Amplified,no,8.857534,Agilent4x44k,F,Test
+252038210173_1_1,>=18,yes,1.42191781,4,Not Amplified,yes,1.465753,Agilent4x44k,F,Test
+gsm1205597,>=18,yes,1.24383562,4,Not Amplified,yes,2.912329,RNAseq,UF,Test
+252038210147_1_4,<18,yes,0.44931507,4s,Not Amplified,no,6.20274,Agilent4x44k,F,Test
+gsm1205563,>=18,yes,0.24657534,4,Amplified,yes,0.246575,RNAseq,UF,Test
+gsm1205472,<18,yes,1.35068493,4,Not Amplified,no,13.484932,RNAseq,UF,Test
+252038210143_1_3,<18,yes,0.51506849,3,Not Amplified,no,6.057534,Agilent4x44k,F,Test
+252038210005_1_3,<18,no,6.95616438,3,Not Amplified,no,6.956164,Agilent4x44k,F,Test
+252038210021_1_2,<18,yes,0.19178082,2,Not Amplified,no,7.958904,Agilent4x44k,F,Test
+252038210161_1_1,<18,yes,0.16164384,3,Not Amplified,no,6.010959,Agilent4x44k,F,Test
+gsm1205641,<18,yes,1.11506849,4,Amplified,yes,1.164384,RNAseq,UF,Test
+252038210046_1_1,>=18,yes,0.94246575,4,Not Amplified,yes,1.010959,Agilent4x44k,F,Test
+itcc0217,<18,no,8.38630137,1,Not Amplified,no,8.386301,HG-U133plus2,F,Test
+252038210096_1_2,>=18,no,14.6,1,Not Amplified,no,14.6,Agilent4x44k,F,Test
+252038210181_1_2,<18,NA,NA,4s,Not Amplified,no,5.753425,Agilent4x44k,UF,Test
+252038210053_1_4,<18,no,5.52328767,3,Not Amplified,no,5.523288,Agilent4x44k,F,Test
+252038210011_1_4,<18,no,7.56438356,2,Amplified,no,7.564384,Agilent4x44k,F,Test
+252038210092_1_3,<18,no,13.11506849,1,Not Amplified,no,13.115068,Agilent4x44k,F,Test
+gsm1205518,<18,no,13.8630137,4s,Not Amplified,no,13.863014,RNAseq,F,Test
+itcc0382,<18,no,9.4520548,3,Not Amplified,no,9.452055,HG-U133plus2,F,Test
+itcc0020,>=18,yes,0.93150685,4,Amplified,yes,0.931507,HG-U133plus2,F,Test
+gsm1205603,<18,no,9.93150685,4s,Not Amplified,no,9.931507,RNAseq,F,Test
+itcc0013,>=18,yes,1.24931507,4,Not Amplified,yes,1.336986,HG-U133plus2,UF,Test
+252038210146_1_1,>=18,no,6.95068493,4,Amplified,no,6.950685,Agilent4x44k,UF,Test
+252038210275_1_2,>=18,yes,2.39452055,4,Not Amplified,no,7.4,Agilent4x44k,F,Test
+gsm1205422,<18,no,5.8630137,2,Not Amplified,no,5.863014,RNAseq,F,Test
+gsm329002,>=18,no,9.20547945,4,Not Amplified,no,9.205479,HG-U133plus2,F,Test
+gsm1205515,<18,no,9.11780822,4s,Not Amplified,no,9.117808,RNAseq,F,Test
+1081195,>=18,yes,1.22465753,4,Not Amplified,yes,1.224658,HG-U133plus2,F,Test
+gsm1205545,<18,no,5.4739726,4s,Not Amplified,no,5.473973,RNAseq,UF,Test
+gsm1205262,<18,no,5.75616438,1,Not Amplified,no,5.756164,RNAseq,F,Test
+gsm1205257,<18,no,9.50136986,1,Not Amplified,no,9.50137,RNAseq,F,Test
+gsm1205480,>=18,no,7.64383562,4,Not Amplified,no,7.643836,RNAseq,F,Test
+252038210287_1_2,>=18,yes,3.92328767,4,Amplified,yes,6.389041,Agilent4x44k,UF,Test
+itcc0380,<18,no,13.30684932,4s,Not Amplified,no,13.306849,HG-U133plus2,F,Test
+gsm1205264,<18,no,10.28219178,1,Not Amplified,no,10.282192,RNAseq,F,Test
+gsm1205643,>=18,yes,0.92054795,4,Amplified,yes,1.041096,RNAseq,UF,Test
+gsm1205574,>=18,yes,0.30684932,4,Not Amplified,yes,0.654795,RNAseq,UF,Test
+1080068,<18,no,6.22739726,3,Not Amplified,no,6.227397,HG-U133plus2,F,Test
+gsm1205359,>=18,yes,2.07945205,2,Not Amplified,yes,4.857534,RNAseq,F,Test
+252038210002_1_1,<18,no,12.89041096,4s,Not Amplified,no,12.890411,Agilent4x44k,F,Test
+itcc0101,>=18,yes,0.64657534,4,Not Amplified,yes,0.778082,HG-U133plus2,F,Test
+itcc0151,<18,no,5.46027397,4s,Not Amplified,no,5.460274,HG-U133plus2,F,Test
+gsm1205732,<18,no,6.75890411,1,Not Amplified,no,6.758904,RNAseq,F,Test
+itcc0021,>=18,yes,0.57260274,4,Amplified,yes,0.810959,HG-U133plus2,UF,Test
+252038210068_1_3,>=18,no,13.31780822,3,Not Amplified,no,13.317808,Agilent4x44k,F,Test
+252038210048_1_1,>=18,no,9.81917808,4,Not Amplified,no,9.819178,Agilent4x44k,F,Test
+gsm329015,>=18,yes,0.65753425,4,Amplified,yes,0.657534,HG-U133plus2,UF,Test
+gsm1205499,>=18,yes,1.18082192,4,Amplified,yes,1.243836,RNAseq,UF,Test
+252038210027_1_3,>=18,no,12.76712329,2,Not Amplified,no,12.767123,Agilent4x44k,F,Test
+gsm1205296,<18,no,10.93150685,1,Not Amplified,no,10.931507,RNAseq,F,Test
+252038210176_1_1,<18,NA,NA,4,Amplified,yes,0.821918,Agilent4x44k,F,Test
+itcc0061,<18,no,18.88767123,4,Not Amplified,no,18.887671,HG-U133plus2,UF,Test
+gsm1205604,<18,no,8.57808219,1,Not Amplified,no,8.578082,RNAseq,F,Test
+252038210010_1_2,<18,no,9.36164384,4,Not Amplified,no,9.361644,Agilent4x44k,F,Test
+itcc0175,<18,no,16.60547945,4,Not Amplified,no,16.605479,HG-U133plus2,F,Test
+gsm1205692,<18,no,6.08767123,4,Not Amplified,no,6.087671,RNAseq,F,Test
+gsm1205567,<18,no,8.0739726,4,Not Amplified,no,8.073973,RNAseq,F,Test
+1080609,>=18,yes,1.31780822,4,Not Amplified,yes,1.484932,HG-U133plus2,F,Test
+gsm1205505,>=18,yes,0.99452055,4,Amplified,yes,1.367123,RNAseq,UF,Test
+gsm1205628,>=18,no,7.72054794,4,Not Amplified,no,7.720548,RNAseq,F,Test
+gsm1205320,>=18,no,8.7890411,4,Not Amplified,no,8.789041,RNAseq,F,Test
+252038210081_1_1,>=18,no,10.97808219,2,Not Amplified,no,10.978082,Agilent4x44k,F,Test
+gsm1205493,<18,yes,1.32054794,4,Amplified,yes,2.435616,RNAseq,UF,Test
+gsm1205313,<18,no,12.16438356,3,Not Amplified,no,12.164384,RNAseq,F,Test
+1080226,>=18,yes,0.99452055,4,Not Amplified,yes,1.073973,HG-U133plus2,F,Test
+252038210283_1_1,<18,yes,7.25479452,4,Amplified,no,10.978082,Agilent4x44k,F,Test
+gsm1205340,>=18,yes,0.99452055,1,Not Amplified,no,7.380822,RNAseq,F,Test
+gsm1205434,<18,yes,0.26849315,3,Amplified,yes,0.282192,RNAseq,UF,Test
+252038210087_1_1,<18,no,10.0739726,4s,Not Amplified,no,10.073973,Agilent4x44k,F,Test
+gsm1205369,>=18,no,12.3890411,3,Not Amplified,no,12.389041,RNAseq,F,Test
+gsm1205358,<18,no,6.84931507,2,Not Amplified,no,6.849315,RNAseq,F,Test
+gsm1205269,<18,no,10.06849315,1,Not Amplified,no,10.068493,RNAseq,F,Test
+gsm1205250,>=18,yes,0.97808219,4,Not Amplified,yes,1.312329,RNAseq,F,Test
+itcc0009,<18,yes,0.44109589,2,Not Amplified,no,19.578082,HG-U133plus2,F,Test
+gsm1205543,<18,no,6.8,4s,Not Amplified,no,6.8,RNAseq,F,Test
+gsm1205247,<18,yes,1.69863014,3,Amplified,yes,2.961644,RNAseq,UF,Test
+252038210148_1_4,>=18,no,6.74520548,4,Amplified,no,6.745205,Agilent4x44k,F,Test
+252038210285_1_4,>=18,no,5.40821918,4,Amplified,no,5.408219,Agilent4x44k,UF,Test
+itcc0148,>=18,no,10.64931507,4,Not Amplified,no,10.649315,HG-U133plus2,F,Test
+252038210009_1_4,<18,no,10.80821918,4,Not Amplified,no,10.808219,Agilent4x44k,F,Test
+252038210152_1_1,<18,no,7.32876712,1,Not Amplified,no,7.328767,Agilent4x44k,F,Test
+252038210033_1_3,<18,yes,0.26849315,2,Not Amplified,no,7.747945,Agilent4x44k,F,Test
+252038210092_1_2,<18,no,12.12876712,1,Not Amplified,no,12.128767,Agilent4x44k,F,Test
+252038210026_1_2,<18,yes,1.35068493,4,Not Amplified,no,14.432877,Agilent4x44k,F,Test
+252038210124_1_3,<18,no,10.62191781,2,Not Amplified,no,10.621918,Agilent4x44k,F,Test
+252038210274_1_2,>=18,no,6.29315068,1,Not Amplified,no,6.293151,Agilent4x44k,F,Test
+gsm1205571,<18,no,5.84931507,4,Not Amplified,no,5.849315,RNAseq,F,Test
+252038210180_1_2,<18,NA,NA,2,Not Amplified,no,11.506849,Agilent4x44k,UF,Test
+252038210191_1_1,>=18,yes,0.84383562,4,Amplified,yes,1.50411,Agilent4x44k,UF,Test
+gsm1205635,<18,yes,0.80273973,4s,Not Amplified,no,7.690411,RNAseq,F,Test
+252038210024_1_3,>=18,no,10.83013699,4,Not Amplified,no,10.830137,Agilent4x44k,F,Test
+gsm1205516,<18,no,8.89041096,4s,Not Amplified,no,8.890411,RNAseq,F,Test
+gsm1205476,>=18,no,5.75342466,4,Not Amplified,no,5.753425,RNAseq,F,Test
+252038210123_1_1,<18,no,8.11506849,1,Not Amplified,no,8.115068,Agilent4x44k,F,Test
+1080069,<18,yes,0.36164384,4,Amplified,yes,0.619178,HG-U133plus2,UF,Test
+gsm1205416,<18,yes,0.22739726,2,Not Amplified,no,5.287671,RNAseq,F,Test
+itcc0288,>=18,yes,1.06027397,3,Not Amplified,yes,1.339726,HG-U133plus2,UF,Test
+gsm1205557,>=18,yes,1.02739726,4,Not Amplified,yes,2.013699,RNAseq,UF,Test
+gsm1205530,<18,no,6.64383562,4s,Not Amplified,no,6.643836,RNAseq,F,Test
+itcc0049,<18,no,18.85205479,4s,Not Amplified,no,18.852055,HG-U133plus2,F,Test
+252038210031_1_4,>=18,yes,1.96712329,4,Not Amplified,yes,3.452055,Agilent4x44k,F,Test
+gsm1205489,>=18,yes,2.1369863,4,Not Amplified,yes,2.309589,RNAseq,F,Test
+gsm1205374,>=18,yes,0.68493151,3,Amplified,yes,0.99726,RNAseq,UF,Test
+gsm1205625,>=18,yes,0.5369863,4,Not Amplified,yes,2.778082,RNAseq,UF,Test
+gsm1205514,<18,no,13.27123288,4s,Not Amplified,no,13.271233,RNAseq,F,Test
+252038210071_1_2,>=18,no,8.96986301,3,Amplified,no,8.969863,Agilent4x44k,UF,Test
+gsm1205260,<18,no,12.30684932,1,Not Amplified,no,12.306849,RNAseq,F,Test
+252038210263_1_3,>=18,no,5.4630137,4,Not Amplified,no,5.463014,Agilent4x44k,F,Test
+gsm1205425,>=18,yes,0.95616438,3,Not Amplified,yes,3.076712,RNAseq,UF,Test
+252038210198_1_3,<18,no,5.2739726,1,Amplified,no,5.273973,Agilent4x44k,F,Test
+1080290,>=18,yes,4.3369863,4,Not Amplified,yes,5.210959,HG-U133plus2,F,Test
+gsm1205629,>=18,yes,1.62465753,4,Not Amplified,yes,2.09863,RNAseq,UF,Test
+gsm1205322,<18,no,14.0630137,4,Not Amplified,no,14.063014,RNAseq,F,Test
+itcc0035,<18,no,16.4739726,4s,Not Amplified,no,16.473973,HG-U133plus2,F,Test
+252038210149_1_1,<18,no,6.26575342,3,Not Amplified,no,6.265753,Agilent4x44k,F,Test
+252038210155_1_3,<18,no,5.35068493,4s,Amplified,no,5.350685,Agilent4x44k,UF,Test
+252038210089_1_2,>=18,no,11.89041096,4,Not Amplified,no,11.890411,Agilent4x44k,F,Test
+gsm1205303,<18,yes,1.78356164,2,Not Amplified,no,7.59726,RNAseq,F,Test
+gsm1205666,<18,no,8.15616438,4,Not Amplified,no,8.156164,RNAseq,F,Test
+gsm1205675,>=18,yes,1.2,4,Amplified,yes,1.243836,RNAseq,UF,Test
+gsm1205357,<18,no,8.76986301,2,Not Amplified,no,8.769863,RNAseq,F,Test
+gsm1205362,<18,no,8.82465753,2,Not Amplified,no,8.824658,RNAseq,F,Test
+gsm1205547,<18,no,5.76164384,4s,Not Amplified,no,5.761644,RNAseq,F,Test
+itcc0155,>=18,no,8.74794521,3,Not Amplified,no,8.747945,HG-U133plus2,UF,Test
+itcc0044,<18,no,11.37534247,2,Not Amplified,no,11.375342,HG-U133plus2,F,Test
+itcc0302,>=18,no,15.75342466,1,Not Amplified,no,15.753425,HG-U133plus2,F,Test
+gsm1205292,<18,no,6.86027397,1,Not Amplified,no,6.860274,RNAseq,F,Test
+252038210027_1_4,<18,yes,4.29315068,4s,Not Amplified,no,11.084932,Agilent4x44k,F,Test
+itcc0150,<18,no,11.63561644,3,Not Amplified,no,11.635616,HG-U133plus2,F,Test
+252038210127_1_4,<18,no,7.00273973,4,Not Amplified,no,7.00274,Agilent4x44k,F,Test
+gsm328999,>=18,no,10.02739726,4,Not Amplified,no,10.027397,HG-U133plus2,F,Test
+252038210148_1_2,<18,no,7.28219178,1,Not Amplified,no,7.282192,Agilent4x44k,F,Test
+gsm1205491,<18,no,5.88767123,4,Amplified,no,5.887671,RNAseq,UF,Test
+252038210126_1_1,<18,no,5.63561644,2,Not Amplified,no,5.635616,Agilent4x44k,F,Test
+252038210189_1_1,>=18,no,6.24931507,4,Not Amplified,no,6.249315,Agilent4x44k,F,Test
+gsm1205626,>=18,no,11.20547945,4,Amplified,no,11.205479,RNAseq,F,Test
+252038210284_1_2,>=18,yes,0.44109589,4,Not Amplified,yes,2.134247,Agilent4x44k,UF,Test
+252038210162_1_4,<18,no,6.81643836,1,Not Amplified,no,6.816438,Agilent4x44k,F,Test
+gsm1205401,<18,no,5.95890411,1,Not Amplified,no,5.958904,RNAseq,F,Test
+gsm1205591,<18,yes,0.96986301,4,Not Amplified,yes,1.208219,RNAseq,UF,Test
+gsm1205596,>=18,yes,1.93972603,4,Not Amplified,yes,3.156164,RNAseq,F,Test
+252038210055_1_3,<18,no,8.33150685,4s,Not Amplified,no,8.331507,Agilent4x44k,F,Test
+252038210028_1_4,<18,no,8.4739726,1,Not Amplified,no,8.473973,Agilent4x44k,F,Test
+gsm1205245,>=18,no,9.66027397,3,Amplified,no,9.660274,RNAseq,UF,Test
+252038210002_1_3,<18,no,5.14246575,4s,Not Amplified,no,5.142466,Agilent4x44k,F,Test
+gsm329004,<18,yes,1.23287671,1,Not Amplified,yes,1.232877,HG-U133plus2,F,Test
+gsm1205630,>=18,yes,1.68493151,4,Not Amplified,yes,3.383562,RNAseq,F,Test
+gsm1205671,<18,no,8.34246575,4,Not Amplified,no,8.342466,RNAseq,F,Test
+252038210023_1_1,<18,no,16.14520548,2,Not Amplified,no,16.145205,Agilent4x44k,F,Test
+gsm1205265,<18,no,8.95342466,1,Not Amplified,no,8.953425,RNAseq,F,Test
+252038210030_1_4,>=18,no,10.42191781,4,Not Amplified,no,10.421918,Agilent4x44k,F,Test
+252038210234_1_4,<18,yes,0.2109589,2,Not Amplified,no,5.756164,Agilent4x44k,F,Test
+gsm1205470,<18,yes,0.20547945,3,Not Amplified,no,5.060274,RNAseq,F,Test
+gsm1205590,>=18,yes,3.20547945,3,Not Amplified,yes,5.506849,RNAseq,UF,Test
+252038210045_1_1,>=18,yes,1.15068493,4,Not Amplified,yes,2.630137,Agilent4x44k,F,Test
+gsm1205309,<18,no,17.75890411,3,Not Amplified,no,17.758904,RNAseq,F,Test
+itcc0132,>=18,yes,0.98630137,2,Not Amplified,yes,1.252055,HG-U133plus2,UF,Test
+252038210181_1_4,<18,NA,NA,2,Not Amplified,no,10.684932,Agilent4x44k,F,Test
+gsm1205287,<18,no,9.46849315,1,Not Amplified,no,9.468493,RNAseq,F,Test
+itcc0034,<18,no,14.95342466,2,Not Amplified,no,14.953425,HG-U133plus2,F,Test
+itcc0038,<18,no,15.77808219,4s,Not Amplified,no,15.778082,HG-U133plus2,F,Test
+gsm328998,<18,no,5.09589041,1,Not Amplified,no,5.09589,HG-U133plus2,F,Test

@@ -1,0 +1,198 @@
+---
+title: "RUVBL1 and RUVBL2 as novel druggable DNA Damage Response regulators in the N-Myc regulatory network in neuroblastoma."
+output: 
+  html_notebook:
+    number_sections: yes
+    toc: yes
+    toc_float: yes
+---
+
+# Project background and aims
+
+### Aim
+
+Investigating the role of  RUVBL1/2 in neuroblastoma (NB).
+
+### Background
+
+# Analysis 1 (public data)
+
+### Environment
+
+Analysis was performed in a Conda environment. See **RUVBL2.yml** for details.
+
+
+### Single sample signature scoring of the Hallmnark gene sets in NB-TARGET dataset.
+sample grouped into high-risk (n=129) and low-risk(n=27)
+
+```{r}
+source("scripts/manuscript_signature_score_hallmark_NB-TARGET.R")
+```
+
+### Correlation analysis of *RUVBL1* and *RUVBL2* expression with *MYCN*-amplification status, Age at diagnosis and INSS stage
+2 independent NB publicly available datasets were used: NB-SEQC (GSE49710) and NB-Cangelosi (Cangelosi_2020; PMID: 32825087).
+
+```{r}
+# NB-SEQC
+source("scripts/manuscript_corr_analysis_inss_mycn_age_SEQC.R")
+```
+
+```{r}
+# NB-Cangelosi
+soruce("scripts/manuscript_corr_analysis_inss_mycn_age_Cangelosi.R")
+```
+
+### Kaplan-Meier (KM) survival and multivariate Cox Proportional Hazard (Coxph) anlyses of *RUVBL1* and *RUVBL2* expression in NB.
+Other covariates used in the Coxph analysis: *MYCN*-amplification status (*MYCN*-Amp vs nonAmp), Age at diagnposis (>18 months vs <18 months) and INSS stage (stage 4 vs stages 1,2,3,4S)
+data sets: NB-SEQC and NB-Cangelosi
+
+```{r}
+# KM NB-SEQC
+source("scripts/manuscript_survplot_SEQC.R")
+```
+
+```{r}
+# KM NB-Cangelois
+source("scripts/manuscript_survplot_Cangelosi.R")
+```
+
+```{r}
+# CoxpH NB-SEQC
+source("scripts/manuscript_Coxph_RUVBL1_2_SEQC.R")
+```
+
+```{r}
+# CoxpH NB-Cangelosi
+source("scripts/manuscript_Coxph_RUVBL1_2_Cangelosi.R")
+```
+
+### Empirical Cumulative Density Function (ECDF) plot of the hazard ratios of all genes determined in mutivariate Coxph analysis.
+same other covariates used as above.
+data sets: NB-SEQC and NB-Cangelosi
+   
+   - run multivariate Coxph on all individual genes and save result in one dataframe
+   - create ECDF plot using the resulting dataframe
+
+```{r}
+# Coxph, all genes; NB-SEQC
+source("scripts/manuscript_Coxph_allgenes_SEQC.R")
+```
+
+```{r}
+# Coxph, all genes; NB-Cangelosi
+source("scripts/manuscript_Coxph_allgenes_Cangelosi.R")
+```
+
+```{r}
+# ECDF plots
+source("scripts/manuscript_ECDFplot.R")
+```
+
+### Time-course analysis of *Ruvbl/2* expression during *Th-MYCN* driven tumourigenesis in NB mice model
+data source: E-MTAB-3247, De Wyn et al. 2021
+
+   - download and process data
+   - make time-course plot of *Ruvbl/2* expression
+
+```{r}
+# download and process data
+source("scripts/process_microarray_ThMYCN_mice.R")
+```
+
+```{r}
+# plot
+source("scripts/manuscript_Ruvbl_time_course_ThMYCN_mice.R")
+```
+
+# Analysis 2 (RNA-Seq data - this study)
+
+### RNA-Seq analysis of the effect RUVBL1/2 inhibtion on NB 
+
+RNA-Seq with 24 samples:
+
+  - 2 cell lines: CLB-BA and SK-N-AS
+  - 1 inhibitor plus control: CB-6644 (3 replicates each)
+  - 4 time points: 0h, 24h, 48h and 72h
+  
+
+
+Analysis was performed in a Conda environment. See **RUVBL.yml** for details. **scripts/Rpacks** describes R packages that were installed independently.
+
+### Data 
+
+#### RNA-Seq
+
+* RNA-Seq performed externally (BMKGENE). 
+* Fastq files downloaded to ccgg_data
+* Linked from raw/
+
+```{bash, eval=F}
+  ln -s /mnt/ccgg_data/raw/NB_RUVBL/rna_seq/raw
+```
+
+#### Create sample information file 
+
+```{r}
+  source("scripts/get_sample_info.R")
+```
+
+### Data processing
+
+#### RNA-Seq
+
+##### Alignment & quantification
+
+* Alignment: hisat2 on grch38
+    + Alignment efficiency log saved in *temp/hisat2_log/*
+    + Bam statistics are saved in *temp/bam_stat/*
+
+* Quantification: htseq-count, genes annotated using gencode29
+    + Log saved in *temp/htseq_log/*
+
+```{bash, eval=F}
+  scripts/other/process_fastq.sh
+```
+
+#### Check alignment efficiency
+
+Extract from *temp/hisat2_log/* and save as *results/data/alignment_summary.txt*
+
+##### Cell lines
+```{bash}
+scripts/other/alignment_summary.sh
+```
+
+```{r}
+align_summ<- read.table("results/data/alignment_summary.txt")
+  cat("Mean alignment efficiency (min-max):", mean(align_summ[,2]),"(",min(align_summ[,2]),"-",max(align_summ[,2]),")")
+```
+
+
+### Check insert size
+
+#### Cell lines
+```{bash}
+scripts/other/insert_size_summary.sh
+```
+
+```{r}
+insert_summ<- read.table("results/data/insertSize_summary.txt")
+  cat("Mean mean insert size (min-max):", mean(insert_summ[,2]),"(",min(insert_summ[,2]),"-",max(insert_summ[,2]),")","\n")
+  cat("Mean SD insert size (min-max):", mean(insert_summ[,3]),"(",min(insert_summ[,3]),"-",max(insert_summ[,3]),")")
+```
+### Differential expression analysis using DESeq2
+
+#### Cell lines
+
+* DE results saved to: *data/RUVBL_DE.rds* 
+* Normalized counts saved to: *data/normalized_counts.rds*
+
+```{r}
+source("scripts/DESeq2_analysis.R")
+```
+
+### Manuscript/Visualize DESeq2 results
+
+```{r}
+source("scripts/manuscript_visualize_DESeq2_CB6644_rnaseq.R")
+```
